@@ -14,6 +14,8 @@ line 2
 new line
 
 line 3
+
+line 4
 -------------------
 ```
 $ mvn jetty:run
